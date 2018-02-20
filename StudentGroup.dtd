@@ -1,0 +1,7 @@
+<!ELEMENT studentGroup (student+)> 
+<!ELEMENT student (name,lastName,fNum,subjectMark+)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT lastName (#PCDATA)>
+<!ELEMENT fNum (#PCDATA)>
+<!ELEMENT subjectMark (#PCDATA)>
+<!ATTLIST subjectMark name CDATA #REQUIRED>

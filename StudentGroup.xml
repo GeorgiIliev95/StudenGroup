@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="StudentGroup.xsl"?>
+<studentGroup>  
+    <student>
+        <name>Tabitha</name>
+        <lastName>Phillips</lastName>
+        <fNum>61459457</fNum>       
+        <subjectMark name="ComputerArchitecture">5</subjectMark>
+        <subjectMark name="SoftwareTechnologies">5</subjectMark>
+        <subjectMark name="Databases">4</subjectMark>
+        <subjectMark name="ComputerGraphics">5</subjectMark>
+        <subjectMark name="ComputerComunications">4</subjectMark>
+    </student>
+    <student>
+        <name>Samuel</name>
+        <lastName>Hammond</lastName>
+        <fNum>61459458</fNum>
+        <subjectMark name="ComputerArchitecture">5</subjectMark>
+        <subjectMark name="SoftwareTechnologies">4</subjectMark>
+        <subjectMark name="Databases">3</subjectMark>
+        <subjectMark name="ComputerGraphics">4</subjectMark>
+        <subjectMark name="ComputerComunications">5</subjectMark>
+    </student>
+    <student>
+        <name>Esther</name>
+        <lastName>White</lastName>
+        <fNum>61459459</fNum>
+        <subjectMark name="ComputerArchitecture">4</subjectMark>
+        <subjectMark name="SoftwareTechnologies">5</subjectMark>
+        <subjectMark name="Databases">4</subjectMark>
+        <subjectMark name="ComputerGraphics">3</subjectMark>
+        <subjectMark name="ComputerComunications">5</subjectMark>
+    </student>
+    <student>
+        <name>Gustavo</name>
+        <lastName>Cunningham</lastName>
+        <fNum>61459460</fNum>
+        <subjectMark name="ComputerArchitecture">3</subjectMark>
+        <subjectMark name="SoftwareTechnologies">4</subjectMark>
+        <subjectMark name="Databases">4</subjectMark>
+        <subjectMark name="ComputerGraphics">4</subjectMark>
+        <subjectMark name="ComputerComunications">4</subjectMark>
+    </student>
+    <student>
+        <name>Mattie</name>
+        <lastName>Brady</lastName>
+        <fNum>61459461</fNum>
+        <subjectMark name="ComputerArchitecture">3</subjectMark>
+        <subjectMark name="SoftwareTechnologies">5</subjectMark>
+        <subjectMark name="Databases">4</subjectMark>
+        <subjectMark name="ComputerGraphics">4</subjectMark>
+        <subjectMark name="ComputerComunications">3</subjectMark>
+    </student>
+    <student>
+        <name>Harvey</name>
+        <lastName>Garcia</lastName>
+        <fNum>61459462</fNum>
+        <subjectMark name="ComputerArchitecture">4</subjectMark>
+        <subjectMark name="SoftwareTechnologies">5</subjectMark>
+        <subjectMark name="Databases">3</subjectMark>
+        <subjectMark name="ComputerGraphics">4</subjectMark>
+        <subjectMark name="ComputerComunications">5</subjectMark>
+    </student>
+    <student>
+        <name>Johnnie</name>
+        <lastName>Howell</lastName>
+        <fNum>61459463</fNum>
+        <subjectMark name="ComputerArchitecture">6</subjectMark>
+        <subjectMark name="SoftwareTechnologies">5</subjectMark>
+        <subjectMark name="Databases">3</subjectMark>
+        <subjectMark name="ComputerGraphics">4</subjectMark>
+        <subjectMark name="ComputerComunications">5</subjectMark>
+    </student>
+    <student>
+        <name>Misty</name>
+        <lastName>Mckinney</lastName>
+        <fNum>61459464</fNum>
+        <subjectMark name="ComputerArchitecture">5</subjectMark>
+        <subjectMark name="SoftwareTechnologies">3</subjectMark>
+        <subjectMark name="Databases">4</subjectMark>
+        <subjectMark name="ComputerGraphics">5</subjectMark>
+        <subjectMark name="ComputerComunications">6</subjectMark>
+    </student>
+    <student>
+        <name>Deanna</name>
+        <lastName>Mcdonald</lastName>
+        <fNum>61459465</fNum>
+        <subjectMark name="ComputerArchitecture">5</subjectMark>
+        <subjectMark name="SoftwareTechnologies">4</subjectMark>
+        <subjectMark name="Databases">5</subjectMark>
+        <subjectMark name="ComputerGraphics">3</subjectMark>
+        <subjectMark name="ComputerComunications">3</subjectMark>
+    </student>
+    <student>
+        <name>Debbie</name>
+        <lastName>Allen</lastName>
+        <fNum>61459466</fNum>
+        <subjectMark name="ComputerArchitecture">6</subjectMark>
+        <subjectMark name="SoftwareTechnologies">6</subjectMark>
+        <subjectMark name="Databases">4</subjectMark>
+        <subjectMark name="ComputerGraphics">5</subjectMark>
+        <subjectMark name="ComputerComunications">5</subjectMark>
+    </student>
+<student><name>Georgi</name><lastName>Iliev</lastName><fNum>61460141</fNum><subjectMark name="ComputerArchitecture">3</subjectMark><subjectMark name="SoftwareTechnologies">6</subjectMark><subjectMark name="Databases">6</subjectMark><subjectMark name="ComputerGraphics">4</subjectMark><subjectMark name="ComputerComunications">4</subjectMark></student></studentGroup>

@@ -1,0 +1,81 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Lato
+}
+.scroll {
+    height: 670px;
+    overflow: auto;
+}
+table {
+    border-collapse: collapse;
+    width: 90%;
+    height: 80%;
+    margin-top: 5%;
+    margin-left: 5%;
+    overflow: scroll;
+}
+
+table th:first-child{
+    border-top-left-radius: 20px;
+}
+
+table th:last-child{
+    border-top-right-radius: 20px;
+}
+
+th, .student > td {
+    border-bottom: 1px solid #ddd;
+    text-align: left;
+    padding-left: 1em;
+}
+.student{
+    transition: background-color 0.5s ease;
+    transition-timing-function: ease-out;
+}
+.student:hover {background-color: #c9e8c9}
+
+th{
+    background-color: #4CAF50;
+    padding: 10px;
+}
+td{
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+.marks{
+    text-align: left;
+    display: none;
+   
+}
+.marks > td{
+    border-bottom: 0px;
+    padding-left: 2em;
+}
+.lastmark{
+     border-bottom: 1px solid #ddd;
+}
+
+#myInput {
+    margin-left: 5%;
+    margin-right: 0.8em;
+}
+
+input#myInput{
+    width:60%;
+    background-image: url('student_group/images/searchicon.png');
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    font-size: 16px;
+    padding: 12px 20px 12px 40px;
+    border: 1px solid #ddd;
+    
+    margin-bottom: 12px;
+    margin-top: 12px;    
+}
+
+button#myBtn {
+    padding: 8px;
+    margin: 10px;
+}
